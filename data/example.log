@@ -1,0 +1,10 @@
+2016-03-08 10:44:42,861 INFO    [JMS Session Delivery Thread] - com.example.juusto.scheduling.service.impl.ServiceImpl: name: xx_1234
+2016-03-08 10:44:42,861 INFO    [JMS Session Delivery Thread] - com.example.juusto.scheduling.service.impl.ServiceImpl: surname: NN
+2016-03-08 10:44:42,861 INFO    [JMS Session Delivery Thread] - com.example.juusto.scheduling.service.impl.ServiceImpl: ID: FOO
+2016-03-08 10:44:42,961 ERROR   [JMS Session Delivery Thread] - com.example.juusto.scheduling.service.impl.ServiceImpl: Data XYZ123450904 not found
+2016-03-08 10:44:42,961 INFO    [JMS Session Delivery Thread] - com.example.juusto.scheduling.service.impl.ServiceImpl: Imported weather cam pic /home/dt/camera-daemon/weathercam/XYZ123450904.jpg
+2016-03-08 10:44:42,983 INFO    [JMS Session Delivery Thread] - com.example.juusto.writer.ftp.FtpFileWriter: Processing file: XYZ123450904.jpg
+2016-03-08 10:44:43,431 INFO    [JMS Session Delivery Thread] - com.example.juusto.messages.Listener: Received: XYZ2009201603081044.jpg
+2016-03-08 10:44:43,432 INFO    [JMS Session Delivery Thread] - com.example.juusto.scheduling.service.impl.ServiceImpl: Id: 1234
+2016-03-08 10:44:43,432 INFO    [JMS Session Delivery Thread] - com.example.juusto.scheduling.service.impl.ServiceImpl: yId: 321
+2016-03-08 10:44:43,432 INFO    [JMS Session Delivery Thread] - com.example.juusto.scheduling.service.impl.ServiceImpl: time: 2016-03-08T08:44:42Z
